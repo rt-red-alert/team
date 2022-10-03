@@ -14,4 +14,4 @@ To use the Hacker theme:
 
 ### Configuration variables
 
-Take a look at [Article 2](history.md) for more information.
+[队史简介](history.md)
