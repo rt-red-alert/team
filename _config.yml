@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 
-title: [RT 战队]
-description: [红色警戒尤里的复仇 RT 战队官网]
+title: [RT战队]
+description: [红色警戒尤里的复仇RT战队官网]
 
 show_downloads: [false]
