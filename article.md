@@ -17,4 +17,6 @@
 
 ## [汉书·鲶鱼简史 - 鲶鱼](article/nianyu.md)
 
+## [高中牲的红警 - unique](article/unique.md)
+
 ## [玉笙列传 - 玉笙（嘉宾）](article/yusheng.md)
