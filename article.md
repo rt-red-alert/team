@@ -1,7 +1,8 @@
 
 
-## [我和红警的那些事 - 烧碱](article/shaojian.md)
+## [我和红警的那些事（上） - 烧碱](article/shaojian.md)
 
+## [我和红警的那些事（下） - 烧碱](article/shaojian-2.md)
 ## [从队员到副队 - 梦兮](article/mengxi.md)
 
 ## [我与红警的故事 - yusp](article/yusp.md)
