@@ -5,7 +5,7 @@
 ## [我和红警的那些事（下） - 烧碱](article/shaojian-2.md)
 ## [从队员到副队 - 梦兮](article/mengxi.md)
 
-## [我与红警的故事 - yusp](article/yusp.md)
+## [游戏·战队·人 - yusp](article/yusp.md)
 
 ## [历难 - 404](article/404.md)
 
