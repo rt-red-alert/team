@@ -20,3 +20,5 @@
 ## [高中牲的红警 - unique](article/unique.md)
 
 ## [玉笙列传 - 玉笙（嘉宾）](article/yusheng.md)
+
+## [记红警往事 - A126（嘉宾）](article/A126.md)
