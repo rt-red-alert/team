@@ -3,6 +3,10 @@
 ## [我和红警的那些事（上） - 烧碱](article/shaojian.md)
 
 ## [我和红警的那些事（下） - 烧碱](article/shaojian-2.md)
+
+## [RT战队回忆录＆我的红警生涯 - gsf](article/gsf1.md)
+
+## [我与红警的一二小叙 - 小羊君](article/xiaoyangjun.md)
 ## [从队员到副队 - 梦兮](article/mengxi.md)
 
 ## [游戏·战队·人 - yusp](article/yusp.md)
@@ -19,7 +23,6 @@
 
 ## [高中牲的红警 - unique](article/unique.md)
 
-## [RT战队回忆录＆我的红警生涯 - gsf](article/gsf1.md)
 
 ## [玉笙列传 - 玉笙（嘉宾）](article/yusheng.md)
 
