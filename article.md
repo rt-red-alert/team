@@ -11,6 +11,8 @@
 
 ## [游戏·战队·人 - yusp](article/yusp.md)
 
+## [我与红警的岁岁年年 - com](article/com.md)
+
 ## [历难 - 404](article/404.md)
 
 ## [任务到对战 - aabc](article/aabc.md)
