@@ -25,6 +25,7 @@
 
 ## [高中牲的红警 - unique](article/unique.md)
 
+## [我是超级尤里基佬！ - 夜樱（嘉宾）](article/yeying.md)
 
 ## [玉笙列传 - 玉笙（嘉宾）](article/yusheng.md)
 
