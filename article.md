@@ -15,6 +15,8 @@
 
 ## [历难 - 404](article/404.md)
 
+## [我与巅峰战线的故事 - 578](article/578.md)
+
 ## [任务到对战 - aabc](article/aabc.md)
 
 ## [水蓝蓝列传 - 水蓝蓝](article/shuilanlan.md)
