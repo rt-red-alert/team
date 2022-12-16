@@ -12,6 +12,8 @@
 
 ## [里红警回忆 - yusp](article/yusp2.md)
 
+## [一个普通JK关于RA2的故事 - 静璃](article/jingli.md)
+
 ## [我与红警的岁岁年年 - com](article/com.md)
 
 ## [历难 - 404](article/404.md)
