@@ -36,6 +36,8 @@
 
 ## [纪念已灭亡的YR界 - 天学家](article/txj1.md)
 
+## [我与红警的故事，十五年来的回忆录 - xlb](article/xlb1.md)
+
 ## [我是超级尤里基佬！ - 夜樱（嘉宾）](article/yeying.md)
 
 ## [玉笙列传 - 玉笙（嘉宾）](article/yusheng.md)
