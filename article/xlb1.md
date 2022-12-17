@@ -8,7 +8,7 @@
 
 拿零四镇楼
 
-![Image text](http://i0.hdslb.com/bfs/article/3cdce8c8200cbe1c220c874fa4cf7562fc0976e8.png@942w_822h_progressive.webp)
+![Image text](http://i0.hdslb.com/bfs/article/3cdce8c8200cbe1c220c874fa4cf7562fc0976e8.png)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
