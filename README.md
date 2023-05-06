@@ -11,6 +11,8 @@
 
 ## [精选文章](article.md)
 
+## [故事墙](wall.md)
+
 
 ![RT](assets/rt.jpg)
 
