@@ -8,4 +8,8 @@
 
 ## [激动列传](wall/exciting.md)
 
+## [辩证看待](wall/bianzheng.md)
+
+## [一个人越缺少什么...](wall/queshao.md)
+
 ## [2020尤里复仇联赛海报](wall/haibao.md)
