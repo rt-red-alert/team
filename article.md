@@ -21,6 +21,8 @@
 
 ## [我与巅峰战线的故事 - 578](article/578.md)
 
+## [我的红警入坑历程 - Gandalf](article/gandaofu.md)
+
 ## [从队员到副队 - 梦兮](article/mengxi.md)
 
 ## [任务到对战 - aabc](article/aabc.md)
