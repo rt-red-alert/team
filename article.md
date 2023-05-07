@@ -23,6 +23,8 @@
 
 ## [我的红警入坑历程 - Gandalf](article/gandaofu.md)
 
+## [{新人向}黄金冰天指挥官苏内玩法介绍 - 小冷](article/xiaoleng.md)
+
 ## [从队员到副队 - 梦兮](article/mengxi.md)
 
 ## [任务到对战 - aabc](article/aabc.md)
