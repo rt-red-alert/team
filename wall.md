@@ -19,3 +19,5 @@
 ## [文明人](wall/wenming.md)
 
 ## [卡神](wall/kashen.md)
+
+## [人机](wall/renji.md)
