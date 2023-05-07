@@ -1,3 +1,1 @@
-![](./assets/wenming1.jpg)
-
-![](./assets/wenming2.jpg)
+![](./assets/hedoujiang.jpg)
