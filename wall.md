@@ -6,6 +6,8 @@
 
 ## [匿名小故事2则](wall/niminggushi.md)
 
+## [冰天王 b2](wall/b2.md)
+
 ## [无敌梅菲教你采矿](wall/meifei.md)
 
 ## [激动列传](wall/exciting.md)
