@@ -1,4 +1,4 @@
-## [队长竞选感言](wall/jingxuan.md)
+## [2016年中秋, 第九任队长的竞选](wall/jingxuan.md)
 
 ## [紫源](wall/ziyuan.md)
 
