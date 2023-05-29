@@ -1,3 +1,5 @@
+## [队长竞选感言](wall/jingxuan.md)
+
 ## [紫源](wall/ziyuan.md)
 
 ## [烧碱教派](wall/shaojianjiaopai.md)
@@ -11,8 +13,6 @@
 ## [辩证看待](wall/bianzheng.md)
 
 ## [一个人越缺少什么...](wall/queshao.md)
-
-## [2020尤里复仇联赛海报](wall/haibao.md)
 
 ## [喝豆浆](wall/hedoujiang.md)
 
