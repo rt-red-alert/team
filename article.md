@@ -4,7 +4,7 @@
 
 ## [我和红警的那些事（下） - 烧碱](article/shaojian-2.md)
 
-## [029已超长待机](article/029.md)
+## [029已超长待机 - 029](article/029.md)
 
 ## [我与红警的一二小叙 - 小羊君](article/xiaoyangjun.md)
 
