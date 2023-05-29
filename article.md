@@ -4,8 +4,6 @@
 
 ## [我和红警的那些事（下） - 烧碱](article/shaojian-2.md)
 
-## [029已超长待机 - 029](article/029.md)
-
 ## [我与红警的一二小叙 - 小羊君](article/xiaoyangjun.md)
 
 ## [游戏·战队·人 - yusp](article/yusp.md)
@@ -43,6 +41,8 @@
 ## [纪念已灭亡的YR界 - 天学家](article/txj1.md)
 
 ## [我与红警的故事，十五年来的回忆录 - xlb](article/xlb1.md)
+
+## [029已超长待机 - 029（嘉宾）](article/029.md)
 
 ## [我是超级尤里基佬！ - 夜樱（嘉宾）](article/yeying.md)
 
