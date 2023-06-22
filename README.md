@@ -11,6 +11,8 @@
 
 ## [精选文章](article.md)
 
+## [资料库](resource.md)
+
 ## [故事墙](wall.md)
 
 
