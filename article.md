@@ -4,6 +4,8 @@
 
 ## [我和红警的那些事（下） - 烧碱](article/shaojian-2.md)
 
+## [平平回忆录：RT战队的2010-12年（2010年篇)](article/PingPing1.md)
+
 ## [我与红警的一二小叙 - 小羊君](article/xiaoyangjun.md)
 
 ## [游戏·战队·人 - yusp](article/yusp.md)
