@@ -1,5 +1,7 @@
 ## [2016年中秋, 第九任队长的竞选](wall/jingxuan.md)
 
+## [然然带我走吧](wall/1007.md)
+
 ## [紫源](wall/ziyuan.md)
 
 ## [烧碱教派](wall/shaojianjiaopai.md)
