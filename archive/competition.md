@@ -1,6 +1,12 @@
 
+## [2024夏季队内赛+图池+赛程](https://docs.qq.com/sheet/DQ0xXWVR0Slp4eG12?tab=BB08J2)
+
+
+## [2023冬季尉级赛+图池+赛程](https://docs.qq.com/sheet/DQ1Vmd3Rva3V6Wk5W?nojump=1&tab=BB08J2)
+
 
 ## [2023 五一 22比赛](https://docs.qq.com/sheet/DYXdiV3dDb3Nvb2dK?ADPUBNO=27303&ADSESSION=1683416203&ADTAG=CLIENT.QQ.5971_.0&ADUIN=2577149050&tdsourcetag=s_pcqq_send_grpfile&tab=BB08J2)
+
 ## [2023寒假校尉赛赛制+图池+赛程](https://docs.qq.com/sheet/DQ3NDYldqWGd2WGZ3?tdsourcetag=s_macqq_grpfile&tab=BB08J2)
 
 
