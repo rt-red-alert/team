@@ -7,7 +7,7 @@
 | [队史](history.md)     | [队员档案](member.md) |[RT档案馆](archive.md) |
 | ----------- | ----------- | ------------- |
 | [精选文章](article.md)      | [资料库](resource.md)       |[故事墙](wall.md) |
-| [队员简介](article.md)      |      |    |
+| [队员简介](info.md)      |      |    |
 
 
 
