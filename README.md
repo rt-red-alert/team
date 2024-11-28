@@ -5,11 +5,11 @@
 
 
 
-| [队史](history.md)   | [RT档案馆](archive.md) | [精选文章](article.md)  | [资料库](resource.md) |[故事墙](wall.md) |
-| ------------- | ------------- |------------- | ------------- | ------------- |
+| [队史](history.md)   | [RT档案馆](archive.md) | [精选文章](article.md)  | [资料库](resource.md) | [故事墙](wall.md) |
 
 
 
-![RT](assets/rt.jpg)
+| ![RT](assets/rt.jpg)   | ![RT](assets/rt.jpg)  |
+| ------------- | ------------- |
 
 ## QQ群号：653488793
