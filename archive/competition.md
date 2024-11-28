@@ -1,5 +1,14 @@
+## [2024国庆娱乐赛赛制+赛程](https://docs.qq.com/sheet/DQ1ZNbUZmcmNLS0Fv?tab=BB08J2)
+
 
 ## [2024夏季队内赛+图池+赛程](https://docs.qq.com/sheet/DQ0xXWVR0Slp4eG12?tab=BB08J2)
+
+
+## [2024艺术鹰眼起源星战队联赛赛制+图池+赛程](https://docs.qq.com/sheet/DQ294Tnp1ZFdhdE5Z?nojump=1&tab=BB08J2)
+
+
+## [2023夏季队内赛赛制+图池+赛程](https://docs.qq.com/sheet/DQ3N3UVNEYW1paXRz?tab=BB08J2)
+
 
 
 ## [2023冬季尉级赛+图池+赛程](https://docs.qq.com/sheet/DQ1Vmd3Rva3V6Wk5W?nojump=1&tab=BB08J2)
