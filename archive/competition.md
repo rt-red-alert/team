@@ -10,7 +10,6 @@
 ## [2023夏季队内赛赛制+图池+赛程](https://docs.qq.com/sheet/DQ3N3UVNEYW1paXRz?tab=BB08J2)
 
 
-
 ## [2023冬季尉级赛+图池+赛程](https://docs.qq.com/sheet/DQ1Vmd3Rva3V6Wk5W?nojump=1&tab=BB08J2)
 
 
