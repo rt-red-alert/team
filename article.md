@@ -1,7 +1,7 @@
 
 ## [RT战队回忆录＆我的红警生涯 - gsf](article/gsf1.md)
 
-## [YR回忆录 - MC](article/gsf1.md)
+## [YR回忆录 - MC](article/mc.md)
 
 ## [我和红警的那些事（上） - 烧碱](article/shaojian.md)
 
