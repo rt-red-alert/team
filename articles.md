@@ -2,6 +2,8 @@
 
 ## [YR回忆录（序章） - MC_](articles/mc.md)
 
+## [【祭】咱的YR小总结Orz - TT](articles/TT1.md)
+
 ## [我和红警的那些事（上） - 烧碱](articles/shaojian.md)
 
 ## [我和红警的那些事（下） - 烧碱](articles/shaojian-2.md)
@@ -53,5 +55,3 @@
 ## [玉笙列传 - 玉笙（嘉宾）](articles/yusheng.md)
 
 ## [记红警往事 - A126（嘉宾）](articles/A126.md)
-
-## [【祭】咱的YR小总结Orz - TT](articles/TT1.md)
