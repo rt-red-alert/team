@@ -4,7 +4,7 @@
 RT战队创建于2010年5月，专注于红色警戒2:尤里的复仇在全国范围内的推广，是国内最早创立的尤里的复仇战队之一。时至今日，RT战队已经发展成为国内人数最多的尤里复仇战队，很多其奠定的战术和传统至今仍被沿用。RT战队专注于新人的培养和战队的发展，如果你热爱红色警戒，热爱尤里的复仇，欢迎加入RT战队。
 
 
-|[队史](history.md)|[RT档案馆](archives.md)|[精选文章](articles.md)|[资料库](resources.md)|[故事墙](memes.md)|
+|[RT队史](history.md)|[RT档案馆](archives.md)|[精选文章](articles.md)|[资料库](resources.md)|[故事墙](memes.md)|
 
 
  ![RT](assets/rt.jpg)  
