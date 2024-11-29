@@ -1,4 +1,4 @@
-# RT战队考核（2024）
+# <center>RT战队考核（2024）<center>
 
 ## 一. 前言
    战队考核是战队鉴定玩家水平最直接有效的手段，是战队建设不可或缺的内容。战队考核是建立规范的战队战力体系，从而更有针对性地提升玩家水平的基础。RT战队考核目前面临如下问题：地图池较为老旧，活跃考官人数不足，考试流程不够规范，考试功能不够多样。RT战队考核系统亟需完善。
@@ -32,7 +32,7 @@
 
 颜色说明：
 
-<font color="pink">粉色：意识<font>，<font color="skyblue">蓝色：基本操作</font>，<font color="yellow">黄色：微操</font>，<font color="lightgreen">绿色：运营与发展</font>，白色：阵营，地图池，套路和其他。
+<font color="pink">粉色：意识</font>，<font color="skyblue">蓝色：基本操作</font>，<font color="yellow">黄色：微操</font>，<font color="lightgreen">绿色：运营与发展</font>，白色：阵营，地图池，套路和其他。
 
 **少尉**：考核时能够展开基地车并且建造建筑和部队。
 
