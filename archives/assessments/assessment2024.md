@@ -31,7 +31,7 @@
 ### 6. 军衔评定细则
 
 颜色说明：
-<font color="pink">粉色<font>：意识，<font color="skyblue">蓝色<font>：基本操作，<font color="yellow">黄色<font>：微操，<font color="lightgreen">绿色<font>：运营与发展，白色：阵营，地图池，套路和其他。
+<font color="pink">粉色<font>：意识，<font color="skyblue">蓝色<font>：基本操作，<font color="yellow">黄色<font>：微操，<font color="lightgreen">绿色</font>：运营与发展，白色：阵营，地图池，套路和其他。
 
 **少尉**：考核时能够展开基地车并且建造建筑和部队
 
