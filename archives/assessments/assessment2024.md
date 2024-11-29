@@ -36,7 +36,7 @@
 <font color="skyblue">蓝色：基本操作</font>
 <font color="yellow">黄色：微操</font>
 <font color="lightgreen">绿色：运营与发展</font>
-白色：阵营，地图池，套路和其他。
+<font color="white">白色：阵营，地图池，套路和其他</font>
 
 **少尉**：考核时能够展开基地车并且建造建筑和部队。
 
