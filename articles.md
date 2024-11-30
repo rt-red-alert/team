@@ -48,9 +48,11 @@
 
 ## [我与红警的故事，十五年来的回忆录 - xlb](articles/xlb1.md)
 
-## [029已超长待机 - 029（嘉宾）](articles/029.md)
+## [我是超级尤里基佬！ - 夜樱](articles/yeying.md)
 
-## [我是超级尤里基佬！ - 夜樱（嘉宾）](articles/yeying.md)
+## [亡妻回忆录 - 御坂](articles/yuban.md)
+
+## [029已超长待机 - 029（嘉宾）](articles/029.md)
 
 ## [玉笙列传 - 玉笙（嘉宾）](articles/yusheng.md)
 
