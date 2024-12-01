@@ -36,6 +36,8 @@
 
 ## [面码传奇 - 面码](articles/mianma.md)
 
+## [忆昔当年泪不干 - 面码](articles/mianma2.md)
+
 ## [水蓝蓝列传 - 水蓝蓝](articles/shuilanlan.md)
 
 ## [qg的红警史 - qg](articles/qg.md)
