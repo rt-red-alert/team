@@ -54,6 +54,8 @@
 
 ## [亡妻回忆录 - 御坂（嘉宾）](articles/yuban.md)
 
+## [我与yusp - 脑车（嘉宾）](articles/naoche.md)
+
 ## [029已超长待机 - 029（嘉宾）](articles/029.md)
 
 ## [玉笙列传 - 玉笙（嘉宾）](articles/yusheng.md)
