@@ -52,6 +52,8 @@
 
 ## [我是超级尤里基佬！ - 夜樱](articles/yeying.md)
 
+## [指挥官，征服世界之旅仍然没有结束 - 真空](articles/zhenkong.md)
+
 ## [亡妻回忆录 - 御坂（嘉宾）](articles/yuban.md)
 
 ## [我与yusp - 脑车（嘉宾）](articles/naoche.md)
