@@ -26,6 +26,8 @@
 
 ## [我与巅峰战线的故事 - 578](articles/578.md)
 
+## [TORRES的“复仇” - torres](articles/torres.md)
+
 ## [我的红警入坑历程 - Gandalf](articles/gandaofu.md)
 
 ## [{新人向}黄金冰天指挥官苏内玩法介绍 - 小冷](articles/xiaoleng.md)
