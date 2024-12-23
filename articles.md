@@ -34,6 +34,8 @@
 
 ## [从队员到副队 - 梦兮](articles/mengxi.md)
 
+## [十年老登 - 钎月苍龙](articles/canglong.md)
+
 ## [任务到对战 - aabc](articles/aabc.md)
 
 ## [面码传奇 - 面码](articles/mianma.md)
