@@ -16,6 +16,8 @@
 
 ## [里红警回忆 - yusp](articles/yusp2.md)
 
+## [红警回忆录 - 饮用水](articles/yinyongshui.md)
+
 ## [一个普通JK关于RA2的故事 - 静璃](articles/jingli.md)
 
 ## [一个普通上尉对师父说的话 - 静璃](articles/jingli-2.md)
