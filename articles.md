@@ -62,6 +62,8 @@
 
 ## [亡妻回忆录 - 御坂（嘉宾）](articles/yuban.md)
 
+## [我与战队的事 - HK御坂14382号（嘉宾）](articles/14382.md)
+
 ## [我与yusp - 脑车（嘉宾）](articles/naoche.md)
 
 ## [029已超长待机 - 029（嘉宾）](articles/029.md)
