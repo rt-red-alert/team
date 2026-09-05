@@ -20,6 +20,8 @@
 
 ## [本篇文章以意识流呈现 - weisuo](articles/weisuo.md)
 
+## [巴乔尔地图牛逼 - 2010](articles/2010zhang.md)
+
 ## [红警回忆录 - 饮用水](articles/yinyongshui.md)
 
 ## [一个普通JK关于RA2的故事 - 静璃](articles/jingli.md)
